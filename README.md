@@ -2,6 +2,10 @@
 
 NOTE: THIS IS NOT A COMPLETE PROJECT. I have listed only the files that are relevant. You must follow the YouTube Tutorial if you want to use this in your app.
 
+Faucet: 
+
+https://faucets.chain.link/rinkeby
+
 ## Steps
 
 ### 1. Create new project
